@@ -8,6 +8,5 @@ terraform {
 }
 
 provider "aws" {
-  profile = "jlee_aws"
   region  = "us-east-1"
 }
